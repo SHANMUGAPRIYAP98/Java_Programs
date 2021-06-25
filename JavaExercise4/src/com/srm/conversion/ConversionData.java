@@ -18,20 +18,20 @@ public class ConversionData {
 		System.out.println("Enter the Dollar $ : ");
 		double dollar=sc.nextDouble();
 		double res1=cc.dollarToINR(dollar);
-		System.out.println("Dollar To INR : "+res1+"¤");
+		System.out.println("Dollar To INR : "+res1+" â‚¹");
 		System.out.println("Enter the EURO  : ");
 		double euro=sc.nextDouble();
 		double res2=cc.euroToINR(euro);
-		System.out.println("EURO To INR : "+res2+"¤");
-		System.out.println("Enter the Yen ¥ : ");
+		System.out.println("EURO To INR : "+res2+" â‚¹");
+		System.out.println("Enter the Yen Â¥ : ");
 		double yen=sc.nextDouble();
 		double res3=cc.yenToINR(yen);
-		System.out.println("YEN To INR : "+res3+"¤");
+		System.out.println("YEN To INR : "+res3+" â‚¹");
 		System.out.println("Enter the Rupees : ");
 		double rupee=sc.nextDouble();
 		System.out.println("INR To DOLLAR : "+cc.rupeeToDollar(rupee)+" $");
-		System.out.println("INR To EURO : "+cc.rupeeToDollar(rupee)+"€");
-		System.out.println("INR To YEN : "+cc.rupeeToYen(rupee)+" ¥");
+		System.out.println("INR To EURO : "+cc.rupeeToDollar(rupee)+"â‚¬");
+		System.out.println("INR To YEN : "+cc.rupeeToYen(rupee)+" Â¥");
 	}
 	else if(op==2)
 	{

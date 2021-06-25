@@ -10,8 +10,9 @@ public class Employee {
 		this.ename=nm;
 		this.basicpay=bp;
 	}
-	void checkBPay(double basicpay) 
+	void checkBPay(double basicpay) throws BasicPayExec
 	{
-		 new BasicPayExec(basicpay).checkBasicPay();
+
+       new BasicPayExec(basicpay).checkBasicPay();	
 	}
 }

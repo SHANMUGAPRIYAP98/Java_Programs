@@ -1,54 +1,54 @@
 
-k	java:S106@"9Replace this use of System.out or System.err by a logger.(ÙÏ©ä8ŠÂÅö£/H­RMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¯şÅ8 šªö£/H½RMAJORZ
 CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¯şÅ8 šªö£/HRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ‡©§ÿÿÿÿÿ8Šµö£/H¾RMAJORZ
 CODE_SMELL
-p	java:S1063"9Replace this use of System.out or System.err by a logger.(ø§±Øüÿÿÿÿ8²êö£/HåRMAJORZ
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(œ¾İİşÿÿÿÿ8Šµö£/H¿RMAJORZ
 CODE_SMELL
-k	java:S106""9Replace this use of System.out or System.err by a logger.(²ÏÕ8åÚÚö£/HÕRMAJORZ
+p	java:S106A"9Replace this use of System.out or System.err by a logger.(’²’úÿÿÿÿ8¼˜Ôö£/HÀRMAJORZ
 CODE_SMELL
-p	java:S106<"9Replace this use of System.out or System.err by a logger.( ÇÂÒıÿÿÿÿ8Øã˜ö£/H÷RMAJORZ
-CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(ı•µ 8’‘¿ö£/H©RMAJORZ
+p	java:S106<"9Replace this use of System.out or System.err by a logger.( ÇÂÒıÿÿÿÿ8Øã˜ö£/HÁRMAJORZ
 CODE_SMELL
 e
-java:S6126"2Replace this String concatenation with Text block.(ı•µ 8ŠÂÅö£/H¡RMAJORZ
+java:S6126"2Replace this String concatenation with Text block.(ı•µ 8ŠÂÅö£/HÂRMAJORZ
 CODE_SMELL
-p	java:S106A"9Replace this use of System.out or System.err by a logger.(’²’úÿÿÿÿ8¼˜Ôö£/HøRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¢ğÏûÿÿÿÿ8åÚÚö£/HÃRMAJORZ
 CODE_SMELL
-p	java:S106 "9Replace this use of System.out or System.err by a logger.(üÈë™ûÿÿÿÿ8²êö£/HäRMAJORZ
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(²Ú×Åùÿÿÿÿ8åÚÚö£/HÄRMAJORZ
 CODE_SMELL
-p	java:S106&"9Replace this use of System.out or System.err by a logger.(³®ıÊûÿÿÿÿ8²êö£/HâRMAJORZ
+k	java:S106""9Replace this use of System.out or System.err by a logger.(²ÏÕ8åÚÚö£/HÅRMAJORZ
 CODE_SMELL
-p	java:S106:"9Replace this use of System.out or System.err by a logger.(ê¾Åîùÿÿÿÿ8åÚÚö£/HÔRMAJORZ
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ÈòÄûÿÿÿÿ8²êö£/HÆRMAJORZ
 CODE_SMELL
-p	java:S106,"9Replace this use of System.out or System.err by a logger.(œ¾İİşÿÿÿÿ8Šµö£/H¯RMAJORZ
+p	java:S106D"9Replace this use of System.out or System.err by a logger.(²Å¡«üÿÿÿÿ8¡êºö£/HÇRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ÌìÅÃûÿÿÿÿ8¼˜Ôö£/HÌRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ú»Ïş8²êö£/HÈRMAJORZ
 CODE_SMELL
-k	java:S106+"9Replace this use of System.out or System.err by a logger.(‰‡Ô8’‘¿ö£/H°RMAJORZ
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(Ù™Æ8²êö£/HÉRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¢ğÏûÿÿÿÿ8åÚÚö£/HÑRMAJORZ
+k	java:S106="9Replace this use of System.out or System.err by a logger.(ñîĞÎ8’‘¿ö£/HÊRMAJORZ
 CODE_SMELL
-p	java:S1060"9Replace this use of System.out or System.err by a logger.(çî˜×ÿÿÿÿÿ8¡êºö£/H®RMAJORZ
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(çî˜×ÿÿÿÿÿ8¡êºö£/HËRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(šşÀĞùÿÿÿÿ8²êö£/HçRMAJORZ
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(‰‡Ô8’‘¿ö£/HÌRMAJORZ
 CODE_SMELL
-p	java:S106)"9Replace this use of System.out or System.err by a logger.(²Ú×Åùÿÿÿÿ8åÚÚö£/HÓRMAJORZ
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(œŞÛÿ8åÚÚö£/HÍRMAJORZ
 CODE_SMELL
-k	java:S1067"9Replace this use of System.out or System.err by a logger.(Ù™Æ8²êö£/HãRMAJORZ
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(ø§±Øüÿÿÿÿ8²êö£/HÎRMAJORZ
 CODE_SMELL
-k	java:S106="9Replace this use of System.out or System.err by a logger.(ñîĞÎ8’‘¿ö£/H¬RMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ı•µ 8’‘¿ö£/HÏRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(«ÚÒÎüÿÿÿÿ8Šµö£/H¨RMAJORZ
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(ÙÏ©ä8ŠÂÅö£/HĞRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(‚¢Òûùÿÿÿÿ8¡êºö£/HªRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÁ¼Î8²êö£/HÑRMAJORZ
 CODE_SMELL
-p	java:S106D"9Replace this use of System.out or System.err by a logger.(²Å¡«üÿÿÿÿ8¡êºö£/H«RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚¢Òûùÿÿÿÿ8¡êºö£/HÒRMAJORZ
 CODE_SMELL
-p	java:S106/"9Replace this use of System.out or System.err by a logger.(ÈòÄûÿÿÿÿ8²êö£/HèRMAJORZ
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(³®ıÊûÿÿÿÿ8²êö£/HÓRMAJORZ
 CODE_SMELL
-k	java:S106!"9Replace this use of System.out or System.err by a logger.(œŞÛÿ8åÚÚö£/HÒRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µ©8¼˜Ôö£/HÔRMAJORZ
 CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(Ú»Ïş8²êö£/HæRMAJORZ
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(ê¾Åîùÿÿÿÿ8åÚÚö£/HÕRMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(üÈë™ûÿÿÿÿ8²êö£/HÖRMAJORZ
 CODE_SMELL

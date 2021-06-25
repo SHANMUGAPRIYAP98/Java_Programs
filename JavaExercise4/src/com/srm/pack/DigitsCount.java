@@ -4,6 +4,7 @@ public class DigitsCount {
 
 	public static void main(String[] args) {
 		String[] a= {"1","aaa","2","bbb"};
+		int[] num;
 		int len=a.length;
 		int count=0;
 		System.out.println("Length : "+len);

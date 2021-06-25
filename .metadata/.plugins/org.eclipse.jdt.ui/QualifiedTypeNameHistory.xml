@@ -32,12 +32,19 @@
     <fullyQualifiedTypeName name="com.srm.currency.CurrencyConverter"/>
     <fullyQualifiedTypeName name="com.srm.time.TimeConverter"/>
     <fullyQualifiedTypeName name="com.srm.distance.DistanceConverter"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.srm.packone.A"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.srm.expection.Student"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="com.srm.expection.BasicPayExec"/>
     <fullyQualifiedTypeName name="com.srm.expection.Employee"/>
+    <fullyQualifiedTypeName name="com.srm.expection.BasicPayExec"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="com.srm.threads.Fibonacci"/>
+    <fullyQualifiedTypeName name="com.srm.threads.Fibo"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.srm.threads.ThreadDemo"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.srm.threads.Shapes"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

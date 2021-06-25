@@ -1,5 +1,9 @@
 
-j	java:S106	"9Replace this use of System.out or System.err by a logger.(ÆÈÈ\8Ï”ó£/HÆRMAJORZ
+[
+java:S1481"(Remove this unused "num" local variable.(é‚ú8—ıË’¤/H¹RMINORZ
 CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(„‘8Ï”ó£/HÇRMAJORZ
+j	java:S106"9Replace this use of System.out or System.err by a logger.(„‘8Ï”ó£/HµRMAJORZ
+CODE_SMELL
+j	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÆÈÈ\8Ï”ó£/H¶RMAJORZ
 CODE_SMELL
