@@ -1,0 +1,14 @@
+package com.srm.conversion;
+import java.util.Scanner;
+
+import com.srm.currency.CurrencyConverter;
+public class ConversionData {
+	public static void main(String[] args) {
+	CurrencyConverter cc=new CurrencyConverter();
+	Scanner sc=new Scanner(System.in);
+	System.out.println("Enter the Dollar : ");
+	double dollar=sc.nextDouble();
+	System.out.println("Dollar To Rupee : "+);
+	}
+
+}

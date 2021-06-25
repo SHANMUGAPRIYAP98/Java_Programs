@@ -1,0 +1,19 @@
+package com.srm.oops;
+class Employee
+{
+	int empId;
+	String empName,addr,mailId;
+	long mobileNo;
+	public Employee(int empId,String empName,String addr,String mailId,long mobileNo) {
+		this.empId=empId;
+	}
+	
+}
+public class EmployeeDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.srm.oops;
+
+interface TVRemote
+{
+	void signalStrength(;)
+}
+public class RemoteDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

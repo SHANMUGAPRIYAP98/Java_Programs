@@ -1,0 +1,28 @@
+package com.srm.basics;
+
+import java.util.Scanner;
+
+public class ArmStrong {
+
+	public static void main(String[] args) {
+
+		System.out.println("Enter the Number : ");
+		Scanner sc=new Scanner(System.in);
+		int number=sc.nextInt();
+		int digits=0,sum=0;
+		for(int i=number;number>0;number=number/10)
+		{
+			digits=number%10;
+			sum+=Math.pow(3, number);
+		}
+		if(sum==number)
+		{
+			System.out.println(number+" is an Armstrong Number");
+		}
+		else
+		{
+			System.out.println(number+" is not an Armstrong Number");
+		}
+	}
+
+}

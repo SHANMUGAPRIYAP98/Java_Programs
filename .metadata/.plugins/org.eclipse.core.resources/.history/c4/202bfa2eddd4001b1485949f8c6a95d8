@@ -1,0 +1,50 @@
+package com.srm.oops;
+class Publication
+{
+	String title;
+	double price;
+	public Publication(String title,double price) {
+	this.title=title;
+	this.price=price;
+	}
+	void diplay()
+	{
+		System.out.println("Title : "+this.title);
+		System.out.println("Price : "+this.price);
+	}
+}
+class Book extends Publication
+{
+	int pageno;
+	public Book(String title, double price,int pageno) {
+		super(title, price);
+		this.pageno=pageno;
+	}
+	void display()
+	{
+		super.diplay();
+		System.out.println("Page No : "+this.pageno);
+	}
+}
+class CD extends Publication
+{
+	String time;
+	public CD(String title, double price,String time) {
+		super(title, price);
+		this.time=time;
+	}
+	void display()
+	{
+		super.diplay();
+		System.out.println("Display Time"+this.time);
+	}
+	
+}
+public class BookDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

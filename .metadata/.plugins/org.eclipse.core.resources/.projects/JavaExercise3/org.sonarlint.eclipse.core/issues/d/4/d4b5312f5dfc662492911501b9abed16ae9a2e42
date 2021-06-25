@@ -1,0 +1,114 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ϋχψÿÿÿÿ8¦Ωμμ£/H„RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(έόΪΎόÿÿÿÿ8Ξ¦Ιμ£/HμRMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(§υ™™όÿÿÿÿ8Ξ¦Ιμ£/HιRMAJORZ
+CODE_SMELL
+X
+java:S16592" Declare "pf" on a separate line.(’τ•‰ϊÿÿÿÿ8Δ§αμ£/HψRMINORZ
+CODE_SMELL
+U
+java:S1659`""Declare "addr" on a separate line.(±ΝΝ›8ΰέν£/HƒRMINORZ
+CODE_SMELL
+X
+java:S1659" Declare "pf" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/H™RMINORZ
+CODE_SMELL
+p	java:S106p"9Replace this use of System.out or System.err by a logger.(…δÒάώÿÿÿÿ8“ϊ’ν£/HΥRMAJORZ
+CODE_SMELL
+Z
+java:S1659""Declare "gpay" on a separate line.(’τ•‰ϊÿÿÿÿ8ΤΛδμ£/HόRMINORZ
+CODE_SMELL
+\
+java:S1659"$Declare "mailId" on a separate line.(ΓΧΈΦωÿÿÿÿ8Ο¨μ£/HΩRMINORZ
+CODE_SMELL
+Z
+java:S16592""Declare "gpay" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/H“RMINORZ
+CODE_SMELL
+[
+java:S1659H"#Declare "allow" on a separate line.(’τ•‰ϊÿÿÿÿ8Δ§αμ£/HφRMINORZ
+CODE_SMELL
+X
+java:S1659H" Declare "pf" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/H‘RMINORZ
+CODE_SMELL
+Z
+java:S1659H""Declare "npay" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/H”RMINORZ
+CODE_SMELL
+[
+java:S16592"#Declare "allow" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/H—RMINORZ
+CODE_SMELL
+Z
+java:S16592""Declare "npay" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/HRMINORZ
+CODE_SMELL
+p	java:S106W"9Replace this use of System.out or System.err by a logger.(ϊ›ώύώÿÿÿÿ8Μπρμ£/H•RMAJORZ
+CODE_SMELL
+Z
+java:S1659H""Declare "gpay" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/H›RMINORZ
+CODE_SMELL
+p	java:S106l"9Replace this use of System.out or System.err by a logger.(τµ‡ζÿÿÿÿÿ8›Υ¨ν£/HϋRMAJORZ
+CODE_SMELL
+W
+java:S1659`"$Declare "mailId" on a separate line.(±ΝΝ›8ΰέν£/H„RMINORZ
+CODE_SMELL
+p	java:S106j"9Replace this use of System.out or System.err by a logger.(αΛ†όÿÿÿÿ8ό•ν£/H±RMAJORZ
+CODE_SMELL
+U
+java:S1659`""Declare "type" on a separate line.(±ΝΝ›8„€―ν£/HRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Σύª8Μπρμ£/H–RMAJORZ
+CODE_SMELL
+Y
+java:S1659"!Declare "scf" on a separate line.(’τ•‰ϊÿÿÿÿ8Δ§αμ£/HωRMINORZ
+CODE_SMELL
+Y
+java:S16592"!Declare "hra" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/HRMINORZ
+CODE_SMELL
+[
+java:S1659"#Declare "allow" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/HRMINORZ
+CODE_SMELL
+k	java:S106n"9Replace this use of System.out or System.err by a logger.(‚ΰ¶Ξ8¦Ωμμ£/H…RMAJORZ
+CODE_SMELL
+
+java:S1192+"MDefine a constant instead of duplicating this literal "Gross Pay : " 3 times.(ϊ›ώύώÿÿÿÿ8Μπρμ£/H‹RCRITICALZ
+CODE_SMELL
+Y
+java:S1659H"!Declare "scf" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/H’RMINORZ
+CODE_SMELL
+p	java:S106A"9Replace this use of System.out or System.err by a logger.(ϊ›ώύώÿÿÿÿ8Μπρμ£/HRMAJORZ
+CODE_SMELL
+Y
+java:S16592"!Declare "scf" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/HRMINORZ
+CODE_SMELL
+k	java:S106h"9Replace this use of System.out or System.err by a logger.(σνΑ8“ϊ’ν£/H¤RMAJORZ
+CODE_SMELL
+†
+java:S1192,"KDefine a constant instead of duplicating this literal "Net Pay : " 3 times.(§υ™™όÿÿÿÿ8Μπρμ£/H‡RCRITICALZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(§υ™™όÿÿÿÿ8Μπρμ£/HRMAJORZ
+CODE_SMELL
+Z
+java:S1659""Declare "npay" on a separate line.(’τ•‰ϊÿÿÿÿ8ΤΛδμ£/HύRMINORZ
+CODE_SMELL
+p	java:S106f"9Replace this use of System.out or System.err by a logger.(ΝζΖ¶ώÿÿÿÿ8ΡΌ‰ν£/HΩRMAJORZ
+CODE_SMELL
+Z
+java:S1659""Declare "addr" on a separate line.(ΓΧΈΦωÿÿÿÿ8Ο¨μ£/HΨRMINORZ
+CODE_SMELL
+p	java:S106X"9Replace this use of System.out or System.err by a logger.(§υ™™όÿÿÿÿ8γΗόμ£/H½RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Δ‰εω8Ξ¦Ιμ£/HκRMAJORZ
+CODE_SMELL
+l	java:S106€"9Replace this use of System.out or System.err by a logger.(ΧΕΓ8“ϊ’ν£/HRMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ϊ›ώύώÿÿÿÿ8Ξ¦Ιμ£/HλRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ΜθΧ–ωÿÿÿÿ8Ξ¦Ιμ£/HνRMAJORZ
+CODE_SMELL
+Y
+java:S1659H"!Declare "hra" on a separate line.(’τ•‰ϊÿÿÿÿ8Δ§αμ£/HχRMINORZ
+CODE_SMELL
+Y
+java:S1659"!Declare "hra" on a separate line.(’τ•‰ϊÿÿÿÿ8Μπρμ£/HRMINORZ
+CODE_SMELL
+k	java:S106d"9Replace this use of System.out or System.err by a logger.(¤’ϋ›8¬³ν£/HγRMAJORZ
+CODE_SMELL

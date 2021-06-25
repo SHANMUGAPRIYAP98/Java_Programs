@@ -1,0 +1,69 @@
+
+p	java:S106j"9Replace this use of System.out or System.err by a logger.(›ÉÓ•úÿÿÿÿ8ãß˜À£/H‚RMAJORZ
+CODE_SMELL
+U
+java:S1659t"#Declare "count" on a separate line.(§ã8šõ€¿£/HŠRMINORZ
+CODE_SMELL
+Z
+java:S1659ˆ"!Declare "sum" on a separate line.(ğÉŒ¤úÿÿÿÿ8©ó¿£/HÑ
+RMINORZ
+CODE_SMELL
+l	java:S106›"9Replace this use of System.out or System.err by a logger.(Œì¹ò8åøŸ¿£/HÓ
+RMAJORZ
+CODE_SMELL
+k	java:S106R"9Replace this use of System.out or System.err by a logger.(ÉøÈß8’Áš¾£/HÁ
+RMAJORZ
+CODE_SMELL
+k	java:S106{"9Replace this use of System.out or System.err by a logger.(®Õ×›8‘·¼À£/H’RMAJORZ
+CODE_SMELL
+k	java:S106v"9Replace this use of System.out or System.err by a logger.(†™ñ‹8ãß˜À£/H„RMAJORZ
+CODE_SMELL
+q	java:S106»"9Replace this use of System.out or System.err by a logger.(Ÿ×æşÿÿÿÿ8Áÿá¿£/H£RMAJORZ
+CODE_SMELL
+j	java:S106Y"9Replace this use of System.out or System.err by a logger.(‰·8’Áš¾£/HÀ
+RMAJORZ
+CODE_SMELL
+q	java:S106¹"9Replace this use of System.out or System.err by a logger.(ì²÷Áşÿÿÿÿ8½Û¾£/H²
+RMAJORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(¾øŒ×8½Û¾£/H±
+RMAJORZ
+CODE_SMELL
+k	java:S106B"9Replace this use of System.out or System.err by a logger.(ñ‰İş8Û“÷½£/H®
+RMAJORZ
+CODE_SMELL
+l	java:S106¬"9Replace this use of System.out or System.err by a logger.(ÓøÊ8÷¿ÀÀ£/H”RMAJORZ
+CODE_SMELL
+]
+java:S1659”"$Declare "digits" on a separate line.(Ø¨Ñ±üÿÿÿÿ8áø¦¿£/HÕ
+RMINORZ
+CODE_SMELL
+p	java:S106`"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8úÊé½£/H
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(è‰à¬8 ïã½£/H™
+RMAJORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÛ—ıÿÿÿÿ8´€°À£/HŸRMAJORZ
+CODE_SMELL
+Z
+java:S1125W"'Remove the unnecessary boolean literal.(Ó®Ö8ÂÍƒ¾£/Hµ
+RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‰¦“îøÿÿÿÿ8ÂÍƒ¾£/H¶
+RMAJORZ
+CODE_SMELL
+W
+java:S1659a"$Declare "digits" on a separate line.(«†ÃÎ8ãß˜À£/HRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(â¬ÀL8 ïã½£/Hš
+RMAJORZ
+CODE_SMELL
+k	java:S106n"9Replace this use of System.out or System.err by a logger.(±úÄª8ëñÀ£/Hî
+RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(ÉêÅ8Œ‘í½£/H¡
+RMAJORZ
+CODE_SMELL
+q	java:S106¤"9Replace this use of System.out or System.err by a logger.(³‡”¿üÿÿÿÿ8¯Ú«À£/H‹RMAJORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+package com.srm.conversion;
+import java.util.Scanner;
+
+import com.srm.currency.CurrencyConverter;
+public class ConversionData {
+	public static void main(String[] args) {
+	CurrencyConverter cc=new CurrencyConverter();
+	Scanner sc=new Scanner(System.in);
+	System.out.println("Enter the Dollar : ");
+	double dollar=sc.nextDouble();
+	double res1=cc.dollarToINR(dollar);
+	System.out.println("Dollar To INR : "+res1);
+	double euro=sc.nextDouble();
+	double res2=cc.euroToINR(euro);
+	System.out.println("EURO To INR : "+res2);
+	double yen=sc.nextDouble();
+	double res3=cc.yenToINR(yen);
+	System.out.println("YEN To INR : "+res3);
+	double rupee=sc.nextDouble();
+	
+	}
+
+}

@@ -1,0 +1,31 @@
+
+U
+java:S1659""Declare "csum" on a separate line.(ÍÑ¯8ÏĞ÷•£/HªRMINORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8Ïìè•£/HŒRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ø»”Æ8ò×í•£/HšRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğÓü•£/HµRMAJORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(Îúª©8—Ëõ•£/H¦RMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(Ü‚Àêúÿÿÿÿ8æ³‘–£/HÁRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ë™á$8®ìô•£/H¤RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(Ì†¦ˆ8šË€–£/HÃRMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8€‘›£/HçRMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©‹›£/HíRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÆ¼¬úÿÿÿÿ8„·ó•£/H¢RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ì†¦ˆ8¨§ë•£/HRMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(·èº˜şÿÿÿÿ8’ûŸ–£/HÄRMAJORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(ãÆÄ“øÿÿÿÿ8Ïµ£–£/HÆRMAJORZ
+CODE_SMELL

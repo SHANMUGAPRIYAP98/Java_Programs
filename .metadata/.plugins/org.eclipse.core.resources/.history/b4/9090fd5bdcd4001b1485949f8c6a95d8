@@ -1,0 +1,27 @@
+package com.srm.oops;
+class Publication
+{
+	String title;
+	double price;
+	public Publication(String title,double price) {
+	this.title=title;
+	this.price=price;
+	}
+}
+class Book extends Publication
+{
+	int pageno;
+	public Book(String title, double price) {
+		super(title, price);
+		// TODO Auto-generated constructor stub
+	}
+	
+}
+public class BookDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

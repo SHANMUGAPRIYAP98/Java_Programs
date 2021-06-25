@@ -1,0 +1,20 @@
+package com.srm.expection;
+
+public class BasicPayExec extends Exception{
+	double bpay;
+public BasicPayExec(double bpay) {
+	this.bpay=bpay;
+	super();
+}
+void checkBasicPay()
+{
+	if(bpay>=0&&bpay<=500)
+	{
+		System.out.println("Invalid Basic Pay Amount Check It");
+	}
+	else
+	{
+		System.out.println("Your Basic Pay is : "+bpay+" ¤");
+	}
+}
+}

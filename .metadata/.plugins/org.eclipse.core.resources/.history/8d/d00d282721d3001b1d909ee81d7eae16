@@ -1,0 +1,34 @@
+package com.srm.basics;
+
+import java.util.Scanner;
+
+class Matrices
+{
+	
+}
+public class MatrixOper {
+
+	public static void main(String[] args) {
+		
+		System.out.println("\nEnter the Operation : " + "\n1.Matrix Addition" + "\n2.Matrix Multilication");
+		Scanner sc = new Scanner(System.in);
+		int op = sc.nextInt();
+	    Matrices mat=new Matrices();
+		switch (op) {
+		case 1:
+			System.out.println("Enter the Number : ");
+			int num = sc.nextInt();
+			mathOp.isPrimeNumber(num);
+			break;
+	    case 2:
+				System.out.println("Enter the Number : ");
+				int number=sc.nextInt();
+				int result=mathOp.sumOfDigits(number);
+				System.out.println("Sum of Digits : "+result);
+				break;
+	    default:System.out.println("Invalid Operation");
+		}
+
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.srm.distance;
+
+public class DistanceConverter {
+void metreToKm(double metre,double km)
+{
+	km=metre*1000;
+}
+}

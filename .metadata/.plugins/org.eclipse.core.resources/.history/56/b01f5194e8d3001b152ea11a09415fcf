@@ -1,0 +1,25 @@
+package com.srm.oops;
+
+
+class Room
+{
+	int roomNo;
+	String roomType;
+	float roomArea;
+	boolean ACMachine;
+	void setData(int roomNo,String roomType,float roomArea,boolean ACMachine)
+	{
+		this.roomNo=roomNo;
+		this.roomType=roomType;
+		this.roomArea=roomArea;
+		this.ACMachine=ACMachine;
+	}
+}
+public class RoomDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

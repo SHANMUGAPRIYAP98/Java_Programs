@@ -1,0 +1,16 @@
+
+W
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ8¼ðÌÁ£/H±RMINORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(íÊ‰Ùúÿÿÿÿ8€€‡Â£/HÕRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(£áºá8ØÅ€Â£/HÏRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ØÂåúúÿÿÿÿ8ßÈ‘Â£/HëRMAJORZ
+CODE_SMELL
+—
+java:S4165	"_Remove this useless assignment; "y" already holds the assigned value along all execution paths.(Æ™êÿúÿÿÿÿ8¼ðÌÁ£/H°RMAJORZ
+CODE_SMELL
+’
+java:S4165"_Remove this useless assignment; "x" already holds the assigned value along all execution paths.(žµè©8¼ðÌÁ£/H¯RMAJORZ
+CODE_SMELL

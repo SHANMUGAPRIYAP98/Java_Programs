@@ -1,0 +1,10 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÎ8»æûï£/HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ı‚Š’ùÿÿÿÿ8éğøï£/HŒRMAJORZ
+CODE_SMELL
+k
+java:S1610"3Convert the abstract class "Pen" into an interface.(ñ•ôÿÿÿÿÿ8‹ßòï£/HŠRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¦ŞÏºıÿÿÿÿ8éğøï£/HRMAJORZ
+CODE_SMELL

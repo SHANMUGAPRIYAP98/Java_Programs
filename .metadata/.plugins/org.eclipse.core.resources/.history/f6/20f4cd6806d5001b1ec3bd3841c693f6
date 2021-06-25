@@ -1,0 +1,34 @@
+package com.srm.currency;
+
+public class CurrencyConverter {
+double dollarToINR(double dollar,double rupee)
+{
+	rupee=dollar*74.15;
+	return rupee;
+}
+double euroToINR(double euro,double rupee)
+{
+	rupee=euro*88.55;
+	return rupee;
+}
+double yenToINR(double yen,double rupee)
+{
+	rupee=yen*0.67;
+	return rupee;
+}
+double rupeeToDollar(double dollar,double rupee)
+{
+	dollar=rupee*0.013;
+	return dollar;
+}
+double rupeeToEuro(double euro,double rupee)
+{
+	euro=rupee*0.011;
+	return euro;
+}
+double rupeeToYen(double yen,double rupee)
+{
+	yen=rupee*1.50;
+	return yen;
+}
+}

@@ -1,0 +1,27 @@
+package com.srm.oops;
+class Electricity
+{
+	int consumerNo;
+	String consumerName;
+	float previousMonth;
+	float currentMonth;
+	float units;
+	float cost;
+	String EBType;
+    void tariffCalc()
+    {
+    	if(this.EBType.toLowerCase()=="domestic")
+    	{
+    		
+    	}
+    }
+	
+}
+public class ElectricityBill {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

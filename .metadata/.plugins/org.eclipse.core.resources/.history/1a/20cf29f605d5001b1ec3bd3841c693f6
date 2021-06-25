@@ -1,0 +1,10 @@
+package com.srm.conversion;
+import com.srm.currency.*;
+public class ConversionData {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

@@ -1,0 +1,20 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Û®÷â8Îµ±•£/HÙRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‘«“®8©´§•£/HÑRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¢•î÷8à •£/HÀRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(“ºƒıÿÿÿÿ8¹â®•£/H×RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ8éƒÂ•£/HˆRMAJORZ
+CODE_SMELL
+’
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(§Ê®—8”¾•£/HŞRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ö³®8ì«©•£/HÓRMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(ØÄøè8ç…Ñ•£/H‰RMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ÆßªÕûÿÿÿÿ8¢¦á™£/HÂRMAJORZ
+CODE_SMELL

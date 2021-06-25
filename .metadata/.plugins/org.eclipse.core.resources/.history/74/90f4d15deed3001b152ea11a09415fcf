@@ -1,0 +1,63 @@
+package com.srm.oops;
+class Electricity
+{
+	int consumerNo;
+	String consumerName;
+	float previousMonth;
+	float currentMonth;
+	float units;
+	float cost;
+	float totalCost;
+	String EBType;
+    void tariffCalc()
+    {
+    	if(this.EBType.toLowerCase()=="domestic")
+    	{
+    		
+    		if(this.units>501)
+    		{
+    			cost=this.units*6;
+    		}
+    		else if(this.units>=201&&this.units<=500)
+    		{
+    			cost=this.units*4;
+    		}
+    		else if(this.units>=101&&this.units<=200)
+    		{
+    			cost=this.units*2.5f;
+    		}
+    		else
+    		{
+    			cost=1;
+    		}
+    	}
+    	else
+    	{
+    		if(this.units>501)
+    		{
+    			cost=this.units*7;
+    		}
+    		else if(this.units>=201&&this.units<=500)
+    		{
+    			cost=this.units*6;
+    		}
+    		else if(this.units>=101&&this.units<=200)
+    		{
+    			cost=this.units*4.5f;
+    		}
+    		else
+    		{
+    			cost=2;
+    		}
+    	}
+    }
+	
+}
+public class ElectricityBill {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

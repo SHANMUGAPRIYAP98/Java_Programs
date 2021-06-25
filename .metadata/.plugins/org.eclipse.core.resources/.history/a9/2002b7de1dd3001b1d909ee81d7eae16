@@ -1,0 +1,36 @@
+package com.srm.basics;
+
+import java.util.Scanner;
+
+class MathOperation
+{
+	boolean flag=false;
+	void isPrimeNumber(int number)
+	{
+		for(int i=2;i<=number/2;i++)
+		{
+			if(number%2==0)
+			{
+				System.out.println(number+" is not prime number");
+				flag=true;
+				break;
+			}
+		}
+		if(flag)
+		{
+			System.out.println(number+" is prime number");
+		}
+	}
+}
+public class BasicOperations {
+
+	public static void main(String[] args) {
+	System.out.println("Enter the Number : ");
+	Scanner sc=new Scanner(System.in);
+	int num=sc.nextInt();
+	MathOperation mathOp=new MathOperation();
+	mathOp.isPrimeNumber(num);
+
+	}
+
+}

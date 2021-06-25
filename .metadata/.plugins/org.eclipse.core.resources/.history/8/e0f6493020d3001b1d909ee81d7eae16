@@ -1,0 +1,10 @@
+package com.srm.basics;
+
+public class AscendingOrder {
+	public static void main(String args[])
+	{
+		System.out.println("Enter the No.of.Elements : ");
+		Scanner sc=new Scanner(System.in);
+		int n=
+	}
+}

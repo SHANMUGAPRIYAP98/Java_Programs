@@ -1,0 +1,18 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¹˜ñ¾8ÉÎ”£/HõRMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "i" local variable.(•÷Èùÿÿÿÿ8ÄŒÆ”£/HßRMINORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "i".(•÷Èùÿÿÿÿ8ÿÅÑ”£/HşRMAJORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(ÓøÊ8äÍ¿”£/HĞRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¢Â•¹ıÿÿÿÿ8ÌùÎ”£/HùRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¶…öøÿÿÿÿ8ÕÚÓ”£/H‰RMAJORZ
+CODE_SMELL
+Y
+java:S1659"!Declare "sum" on a separate line.(ö°”ìøÿÿÿÿ8ïÈ”£/HìRMINORZ
+CODE_SMELL

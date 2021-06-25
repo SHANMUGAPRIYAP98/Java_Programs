@@ -1,0 +1,75 @@
+package com.srm.oops;
+class Electricity
+{
+	int consumerNo;
+	String consumerName;
+	float previousMonth;
+	float currentMonth;
+	float units;
+	float cost;
+	float totalCost;
+	String EBType;
+    void tariffCalc()
+    {
+    	if(this.EBType.toLowerCase()=="domestic")
+    	{
+    		
+    		if(this.units>501)
+    		{
+    			cost=this.units*6;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    		else if(this.units>=201&&this.units<=500)
+    		{
+    			cost=this.units*4;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    		else if(this.units>=101&&this.units<=200)
+    		{
+    			cost=this.units*2.5f;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    		else
+    		{
+    			cost=1;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    	}
+    	else
+    	{
+    		if(this.units>501)
+    		{
+    			cost=this.units*7;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    		else if(this.units>=201&&this.units<=500)
+    		{
+    			cost=this.units*6;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    		else if(this.units>=101&&this.units<=200)
+    		{
+    			cost=this.units*4.5f;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    		else
+    		{
+    			cost=2;
+    			this.totalCost=this.previousMonth*cost+this.currentMonth*cost;
+    		}
+    	}
+    }
+    
+    void displayData() {
+    	System.out.println("----------------------------ELECTRICITY BILL------------------------------");
+    }
+	
+}
+public class ElectricityBill {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

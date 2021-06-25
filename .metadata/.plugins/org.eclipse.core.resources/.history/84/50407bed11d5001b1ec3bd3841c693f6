@@ -1,0 +1,17 @@
+package com.srm.expection;
+
+import java.util.Scanner;
+
+public class Student {
+	long regno;
+	String name;
+	double[] marks=new double[3];
+	void getMarks()
+	{
+		for(int i=0;i<marks.length;i++)
+		{
+			Scanner sc=new Scanner(System.in);
+			marks[i]=sc.nextDouble();
+		}
+	}
+}

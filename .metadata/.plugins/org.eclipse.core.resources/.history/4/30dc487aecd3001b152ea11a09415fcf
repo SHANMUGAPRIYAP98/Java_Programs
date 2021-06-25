@@ -1,0 +1,18 @@
+package com.srm.oops;
+class Electricity
+{
+	int consumerNo;
+	String consumerName;
+	float previousMonth;
+	float currentMonth;
+	String EBType;
+	
+}
+public class ElectricityBill {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

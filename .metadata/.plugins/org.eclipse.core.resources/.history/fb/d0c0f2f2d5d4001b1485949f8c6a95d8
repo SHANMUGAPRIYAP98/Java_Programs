@@ -1,0 +1,15 @@
+package com.srm.oops;
+class Employee
+{
+	int empId;
+	String empName;
+	
+}
+public class EmployeeDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,12 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(‘÷¿°8Éø”•£/H·RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÓøÊ8»½â”£/H–RMAJORZ
+CODE_SMELL
+\
+java:S1659"$Declare "count1" on a separate line.(öÙªóûÿÿÿÿ8™åü”£/H¬RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ø…Åüÿÿÿÿ8™¯’•£/H¼RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¨‰«ã8™åü”£/H½RMAJORZ
+CODE_SMELL

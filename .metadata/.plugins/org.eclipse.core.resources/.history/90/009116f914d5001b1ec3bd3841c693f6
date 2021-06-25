@@ -1,0 +1,7 @@
+package com.srm.expection;
+
+public class BasicPayExec extends Exception{
+public BasicPayExec() {
+	super();
+}
+}

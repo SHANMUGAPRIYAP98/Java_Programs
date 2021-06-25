@@ -1,0 +1,8 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(×Æ´38êç«ð£/H—RMAJORZ
+CODE_SMELL
+q
+java:S1610"9Convert the abstract class "Telephone" into an interface.(þ³ýÄøÿÿÿÿ8êç«ð£/H–RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¼íàûÿÿÿÿ8êç«ð£/H˜RMAJORZ
+CODE_SMELL

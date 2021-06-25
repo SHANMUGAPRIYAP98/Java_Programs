@@ -1,0 +1,19 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ôïİ’£/HRMAJORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8Ö¦Î’£/HRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¨º¢‹øÿÿÿÿ8¾Ô’£/HRMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(Ù©È±8‰Ëâ’£/HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Œ»¬ïûÿÿÿÿ8š¶à’£/H‘RMAJORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ö®¿›£/H’RMINORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(¨Óî”8”µÛ’£/H“RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©È±8”µÛ’£/H”RMAJORZ
+CODE_SMELL

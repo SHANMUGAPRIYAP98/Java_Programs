@@ -1,0 +1,24 @@
+package com.srm.time;
+
+public class TimeConverter {
+double hourToMin(double hour,double min)
+{
+	min=hour*60;
+	return min;
+}
+double hourToSec(double hour,double sec)
+{
+	sec=hour*60*60;
+	return sec;
+}
+double minToHour(double hour,double min)
+{
+	hour=min/60;
+	return min;
+}
+double secToHour(double hour,double sec)
+{
+	hour=sec/3600;
+	return sec;
+}
+}

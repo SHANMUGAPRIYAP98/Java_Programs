@@ -1,0 +1,24 @@
+
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(õ…«Üúÿÿÿÿ8õ‹Ùî£/HêRMAJORZ
+CODE_SMELL
+j	java:S1063"9Replace this use of System.out or System.err by a logger.(ª’^8°ëÕî£/HäRMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(èÙèéÿÿÿÿÿ8õ‹Ùî£/HéRMAJORZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(¬îà8°ëÕî£/HâRMAJORZ
+CODE_SMELL
+W
+java:S1659-"Declare "s" on a separate line.(‚½ªşÿÿÿÿ8°ëÕî£/HáRMINORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(¥Ëæ¨8°ëÕî£/HãRMAJORZ
+CODE_SMELL
+W
+java:S1659-"Declare "b" on a separate line.(‚½ªşÿÿÿÿ8°ëÕî£/HàRMINORZ
+CODE_SMELL
+R
+java:S1659"Declare "b" on a separate line.(ğÌŠÖ8¡Ş—î£/HÚRMINORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(ü×ÄÖøÿÿÿÿ8×³ìî£/HòRMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(µÊÒ©øÿÿÿÿ8×³ìî£/HóRMAJORZ
+CODE_SMELL

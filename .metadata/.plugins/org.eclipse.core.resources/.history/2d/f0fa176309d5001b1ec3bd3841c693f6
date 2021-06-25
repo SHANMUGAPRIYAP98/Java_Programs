@@ -1,0 +1,25 @@
+package com.srm.distance;
+
+public class DistanceConverter {
+	double metre,miles,km;
+double metreToKm(double metre)
+{
+	km=metre*0.001;
+	return km;
+}
+double milesToKm(double miles)
+{
+	km=miles*1.60934;
+	return km;
+}
+double kmToMetre(double km)
+{
+	metre=km*1000;
+	return metre;
+}
+double kmToMiles(double km)
+{
+	miles=km*0.621371;
+	return miles;
+}
+}

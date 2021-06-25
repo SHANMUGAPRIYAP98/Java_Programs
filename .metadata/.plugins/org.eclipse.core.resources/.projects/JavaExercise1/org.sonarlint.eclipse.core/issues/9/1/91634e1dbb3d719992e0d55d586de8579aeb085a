@@ -1,0 +1,13 @@
+
+h
+java:S1854"5Remove this useless assignment to local variable "r".(¥ªº8è…†š£/HÔRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(£ªÕ™ùÿÿÿÿ8è…†š£/HÕRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(íÓÀµ8è…†š£/HÖRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8è…†š£/H×RMAJORZ
+CODE_SMELL
+Y
+java:S1481"&Remove this unused "r" local variable.(¥ªº8è…†š£/HØRMINORZ
+CODE_SMELL

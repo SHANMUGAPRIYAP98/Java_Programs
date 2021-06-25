@@ -1,0 +1,15 @@
+package com.srm.oops;
+
+abstract class Pen
+{
+	abstract void write();
+	abstract void refill();
+}
+public class PenDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

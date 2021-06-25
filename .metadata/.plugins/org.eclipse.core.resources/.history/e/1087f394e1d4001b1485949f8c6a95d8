@@ -1,0 +1,62 @@
+package com.srm.oops;
+
+import java.util.Scanner;
+
+class Rectangle
+{
+	double l,b;
+	Rectangle(double l,double b)
+	{
+		this.l=l;
+		this.b=b;
+	}
+	double area()
+	{
+		return this.l*this.b;
+	}
+	double perimeter()
+	{
+		return 2*this.l*this.b;
+	}
+	
+}
+class Square extends Rectangle
+{
+	double side;
+	public Square(double l, double b,double side) {
+		super(l, b);
+		this.side=side;
+	}
+	double area()
+	{
+		return this.side*this.side;
+		
+	}
+	double perimeter()
+	{
+		return 4*this.side;
+	}
+
+	
+}
+public class ShapesDemo {
+
+	public static void main(String[] args) {
+		double l,b,s;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the Length : ");
+		l=sc.nextDouble();
+		System.out.println("Enter the Breadth : ");
+		b=sc.nextDouble();
+		System.out.println("Enter the Side : ");
+		s=sc.nextDouble();
+		Square s1=new Square(l, b, s);
+		Rectangle r=new Square(l, b, s);
+		double rarea=r.area();
+		System.out.println("Area of Rectangle : "+rarea);
+		double rper=r.perimeter();
+		System.out.println("Perimeter of Rectangle : "+rper);
+		
+	}
+
+}

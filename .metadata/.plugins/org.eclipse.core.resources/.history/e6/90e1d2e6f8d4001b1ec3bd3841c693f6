@@ -1,0 +1,8 @@
+package com.srm.currency;
+
+public class CurrencyConverter {
+void dollarToINR(double dollar,double rupee)
+{
+	rupee=dollar*74.15;
+}
+}

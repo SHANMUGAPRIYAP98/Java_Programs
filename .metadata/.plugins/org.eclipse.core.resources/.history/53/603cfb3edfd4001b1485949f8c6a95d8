@@ -1,0 +1,24 @@
+package com.srm.oops;
+
+class Rectangle
+{
+	double l,b;
+	Rectangle(double l,double b)
+	{
+		this.l=l;
+		this.b=b;
+	}
+	double area()
+	{
+		return this.l*this.b;
+	}
+}
+
+public class ShapesDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

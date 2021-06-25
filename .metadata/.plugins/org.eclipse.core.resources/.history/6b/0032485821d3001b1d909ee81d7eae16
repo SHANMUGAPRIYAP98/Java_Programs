@@ -1,0 +1,27 @@
+package com.srm.basics;
+
+import java.util.Scanner;
+
+class Matrices
+{
+	
+}
+public class MatrixOper {
+
+	public static void main(String[] args) {
+		
+		System.out.println("\nEnter the Operation : " + "\n1.Matrix Addition" + "\n2.Matrix Multilication");
+		Scanner sc = new Scanner(System.in);
+		int op = sc.nextInt();
+	    Matrices mat=new Matrices();
+		switch (op) {
+		case 1:
+		
+	    case 2:
+				
+	    default:System.out.println("Invalid Operation");
+		}
+
+	}
+
+}

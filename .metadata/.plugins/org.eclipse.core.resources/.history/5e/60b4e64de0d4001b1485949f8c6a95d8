@@ -1,0 +1,36 @@
+package com.srm.oops;
+
+class Rectangle
+{
+	double l,b;
+	Rectangle(double l,double b)
+	{
+		this.l=l;
+		this.b=b;
+	}
+	double area()
+	{
+		return this.l*this.b;
+	}
+	double perimeter()
+	{
+		return 2*this.l*this.b;
+	}
+}
+class Square extends Rectangle
+{
+	double side;
+	public Square(double l, double b,double side) {
+		super(l, b);
+		this.side=side;
+	}
+	
+}
+public class ShapesDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

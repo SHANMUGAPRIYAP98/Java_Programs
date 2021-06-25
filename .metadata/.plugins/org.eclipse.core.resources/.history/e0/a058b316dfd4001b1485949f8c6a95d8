@@ -1,0 +1,15 @@
+package com.srm.oops;
+
+class Rectangle
+{
+	
+}
+
+public class ShapesDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

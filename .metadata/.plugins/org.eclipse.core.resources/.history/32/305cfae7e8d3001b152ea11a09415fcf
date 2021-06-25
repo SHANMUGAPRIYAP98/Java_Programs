@@ -1,0 +1,40 @@
+package com.srm.oops;
+
+
+class Room
+{
+	int roomNo;
+	String roomType;
+	float roomArea;
+	boolean ACMachine;
+	void setData(int roomNo,String roomType,float roomArea,boolean ACMachine)
+	{
+		this.roomNo=roomNo;
+		this.roomType=roomType;
+		this.roomArea=roomArea;
+		this.ACMachine=ACMachine;
+	}
+	void display()
+	{
+		System.out.println("Room No : "+this.roomNo);
+		System.out.println("Room Type : "+this.roomType);
+		System.out.println("Room Area : "+this.roomArea);
+		if(this.ACMachine==true)
+		{
+			System.out.println("AC Available");
+		}
+		else
+		{
+			System.out.println("AC not Available");
+		}
+		
+	}
+}
+public class RoomDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

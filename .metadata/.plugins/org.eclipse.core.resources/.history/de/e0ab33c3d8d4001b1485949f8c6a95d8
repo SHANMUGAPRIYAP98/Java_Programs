@@ -1,0 +1,69 @@
+package com.srm.oops;
+class Employee
+{
+	int empId;
+	String empName,addr,mailId;
+	long mobileNo;
+	public Employee(int empId,String empName,String addr,String mailId,long mobileNo) {
+		this.empId=empId;
+		this.empName=empName;
+		this.addr=addr;
+		this.mailId=mailId;
+		this.mobileNo=mobileNo;
+	}
+	void display()
+	{
+		System.out.println("Employee Id : "+this.empId);
+		System.out.println("Employee Name : "+this.empName);
+		System.out.println("Employee Address : "+this.addr);
+		System.out.println("Employee Mail-Id : "+this.mailId);
+		System.out.println("Employee Mobile-No : "+this.mobileNo);
+	}
+}
+class Programmer extends Employee
+{
+	double basicpay,allow,hra,pf,scf,gpay,npay;
+	public Programmer(int empId, String empName, String addr, String mailId, long mobileNo,double basicpay) {
+		super(empId, empName, addr, mailId, mobileNo);
+		this.basicpay=basicpay;
+	}
+	void displayData()
+	{
+		this.allow=this.basicpay*(0.97);
+		this.hra=this.basicpay*0.10;
+		this.pf=this.basicpay*0.12;
+		this.scf=this.basicpay*0.001;
+		this.gpay=this.basicpay+this.allow+this.hra+this.pf+this.scf;
+		this.npay=this.gpay-this.pf;
+		super.display();
+		System.out.println("Gross Pay : "+this.gpay);
+		System.out.println("Net Pay : "+this.npay);
+	}
+	
+}
+class AssistantProfessor extends Employee
+{
+
+	public AssistantProfessor(int empId, String empName, String addr, String mailId, long mobileNo) {
+		super(empId, empName, addr, mailId, mobileNo);
+		// TODO Auto-generated constructor stub
+	}
+	
+}
+class Professor extends Employee
+{
+
+	public Professor(int empId, String empName, String addr, String mailId, long mobileNo) {
+		super(empId, empName, addr, mailId, mobileNo);
+		// TODO Auto-generated constructor stub
+	}
+	
+}
+public class EmployeeDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

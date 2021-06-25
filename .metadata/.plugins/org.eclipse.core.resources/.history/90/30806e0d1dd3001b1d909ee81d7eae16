@@ -1,0 +1,14 @@
+package com.srm.basics;
+
+class ArithmeticOperation
+{
+	
+}
+public class BasicOperations {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

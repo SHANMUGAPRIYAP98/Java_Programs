@@ -1,0 +1,26 @@
+package com.srm.oops;
+class Publication
+{
+	String title;
+	double price;
+	public Publication(String title,double price) {
+	this.title=title;
+	this.price=price;
+	}
+}
+class Book extends Publication
+{
+	int pageno;
+	public Book(String title, double price,int pageno) {
+		super(title, price);
+		this.pageno=pageno;
+	}
+}
+public class BookDemo {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,37 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Å°ì¥8ğî»£/H­RMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(Ã×éÙÿÿÿÿÿ8½ğ¼£/H×RMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(ğ¹Û8ğî»£/H®RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(±ˆ¶8ğî»£/H¯RMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(Ã×éÙÿÿÿÿÿ8ÉÎÙ»£/H£RMAJORZ
+CODE_SMELL
+k	java:S106>"9Replace this use of System.out or System.err by a logger.(Ì®ëÚ8½ğ¼£/HÖRMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(ğ¦Á·8ğî»£/H°RMAJORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÈÕğ8³š¼£/HĞRMINORZ
+CODE_SMELL
+†	java:S116
+"TRename this field "ACMachine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Â‘¯8œ–Ê»£/HšRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ëµŸòùÿÿÿÿ8ÉÎÙ»£/H RMAJORZ
+CODE_SMELL
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(ğ¦Á·8½ğ¼£/HØRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(¡”êòüÿÿÿÿ8ÉÎÙ»£/HŸRMAJORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(¬”¤8ÉÎÙ»£/HRMAJORZ
+CODE_SMELL
+_
+java:S1125"'Remove the unnecessary boolean literal.(º¢Ñ˜ÿÿÿÿÿ8ÉÎÙ»£/H¡RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áİì±ùÿÿÿÿ8Ä”ı»£/H·RMINORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(Ì®ëÚ8ÉÎÙ»£/H¢RMAJORZ
+CODE_SMELL
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(¬”¤8½ğ¼£/HÙRMAJORZ
+CODE_SMELL
