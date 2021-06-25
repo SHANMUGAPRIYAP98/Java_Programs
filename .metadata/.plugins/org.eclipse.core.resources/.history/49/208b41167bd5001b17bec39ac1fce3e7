@@ -42,7 +42,7 @@ class Electricity
     			cost=1;
     		}
     	}
-    	else 
+    	else if(EBType=)
     	{
     		if(this.units>501)
     		{
@@ -70,8 +70,8 @@ class Electricity
    
     void displayData() {
     	System.out.println("----------------------------ELECTRICITY BILL------------------------------");
-    	System.out.println("Consumer No : "+this.consumerNo);
-    	System.out.println("Consumer Name : "+this.consumerName);
+    	System.out.println("Consumer No"+this.consumerNo);
+    	System.out.println("Consumer Name"+this.consumerName);
     	System.out.println("EB Type : "+this.EBType);
     	System.out.println("Total Cost : "+this.cost);
     }

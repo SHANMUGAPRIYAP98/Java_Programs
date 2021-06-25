@@ -22,9 +22,10 @@ class Electricity
 
 	double tariffCalc(String EBType)
     {	
-		System.out.println(EBType);
-    	if(EBType.toLowerCase().equals("domestic"))
+    	if(EBType.toLowerCase()=="domestic")
     	{
+    		this.units=this.currentMonth;
+    		System.out.println(this.units);
     		if(this.units>501)
     		{
     			cost=this.units*6;
@@ -42,7 +43,7 @@ class Electricity
     			cost=1;
     		}
     	}
-    	else 
+    	else
     	{
     		if(this.units>501)
     		{
@@ -70,9 +71,11 @@ class Electricity
    
     void displayData() {
     	System.out.println("----------------------------ELECTRICITY BILL------------------------------");
-    	System.out.println("Consumer No : "+this.consumerNo);
-    	System.out.println("Consumer Name : "+this.consumerName);
+    	System.out.println("Consumer No"+this.consumerNo);
+    	System.out.println("Consumer Name"+this.consumerName);
     	System.out.println("EB Type : "+this.EBType);
+    	System.out.println("Previous Unit : "+this.previousMonth);
+    	System.out.println("Current Unit : "+this.currentMonth);
     	System.out.println("Total Cost : "+this.cost);
     }
 	
@@ -85,11 +88,13 @@ public class ElectricityBill {
 		int cno=sc.nextInt();
 		System.out.println("Enter the Consumer Name : ");
 		String cname=sc.next();
-		System.out.println("Enter the  Units  : ");
-		float units=sc.nextFloat();
+		System.out.println("Enter the Previous Units  : ");
+		float punits=sc.nextFloat();
+		System.out.println("Enter the Current Units  : ");
+		float cunits=sc.nextFloat();
 		System.out.println("Enter the EB Type [ DOMESTIC,COMMERCIAL] : ");
 		String eb=sc.next();
-		Electricity elec=new Electricity(cno, cname, units, eb);
+		Electricity elec=new Electricity(cno, cname, punits, cunits, eb);
 		elec.tariffCalc(eb);
 		elec.displayData();
 

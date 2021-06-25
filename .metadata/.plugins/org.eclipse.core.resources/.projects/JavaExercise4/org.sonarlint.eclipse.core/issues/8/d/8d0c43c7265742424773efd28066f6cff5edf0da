@@ -1,6 +1,6 @@
 
 f
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Æ¸Ìø£/H‹RMINORZ
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Æ¸Ìø£/HÓRMINORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ×™“ùÿÿÿÿ8®×öø£/H²RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ×™“ùÿÿÿÿ8®×öø£/HÔRMAJORZ
 CODE_SMELL

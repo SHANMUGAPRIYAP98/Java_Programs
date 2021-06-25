@@ -1,36 +1,31 @@
 
+ˆ	java:S116"QRename this field "EBType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñäš¬şÿÿÿÿ8Ô»¼£/HÌRMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É§‹Ûÿÿÿÿÿ8€¡½£/HÊRMINORZ
+CODE_SMELL
+k	java:S106Z"9Replace this use of System.out or System.err by a logger.(Á ˆá8ÛÆŒ¤/H±RMAJORZ
+CODE_SMELL
+p	java:S106S"9Replace this use of System.out or System.err by a logger.(íçàşÿÿÿÿ8¬”½£/HçRMAJORZ
+CODE_SMELL
+k	java:S106V"9Replace this use of System.out or System.err by a logger.(ÔÏ¶ø8Ûõ¼£/HåRMAJORZ
+CODE_SMELL
+–
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(”ıæÑ8‚‘¤/HÃRMINORZ
+CODE_SMELL
+p	java:S106J"9Replace this use of System.out or System.err by a logger.(¨êæëùÿÿÿÿ8¬”½£/HßRMAJORZ
+CODE_SMELL
 
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(É§‹Ûÿÿÿÿÿ8Åçà¼£/H³RCRITICALZ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(É§‹Ûÿÿÿÿÿ8Åçà¼£/HÍRCRITICALZ
 CODE_SMELL
-k	java:S106N"9Replace this use of System.out or System.err by a logger.(ˆÜÕ“8§¾‹½£/HÂRMAJORZ
+p	java:S106X"9Replace this use of System.out or System.err by a logger.(Ïö‘àùÿÿÿÿ8ç»„½£/HRMAJORZ
 CODE_SMELL
-k	java:S106\"9Replace this use of System.out or System.err by a logger.(ÔÏ¶ø8Ğ¬üÂ£/HÃRMAJORZ
+p	java:S106H"9Replace this use of System.out or System.err by a logger.(ßışüÿÿÿÿ8”³–½£/HËRMAJORZ
 CODE_SMELL
-p	java:S106Q"9Replace this use of System.out or System.err by a logger.(€š›Èıÿÿÿÿ8´ˆéÂ£/HÄRMAJORZ
+k	java:S106L"9Replace this use of System.out or System.err by a logger.(İæÓ¢8´ˆéÂ£/HèRMAJORZ
 CODE_SMELL
-k	java:S106R"9Replace this use of System.out or System.err by a logger.(İæÓ¢8¬”½£/HÅRMAJORZ
+p	java:S106K"9Replace this use of System.out or System.err by a logger.(¿İÚõüÿÿÿÿ8¬”½£/HàRMAJORZ
 CODE_SMELL
-p	java:S106`"9Replace this use of System.out or System.err by a logger.(ÑÉóøûÿÿÿÿ8¬”½£/HÆRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(æ¿¬¨ùÿÿÿÿ8¬”½£/H‘RMAJORZ
 CODE_SMELL
-p	java:S106M"9Replace this use of System.out or System.err by a logger.(Æ«¯üùÿÿÿÿ8ç»„½£/HÇRMAJORZ
-CODE_SMELL
-p	java:S106Y"9Replace this use of System.out or System.err by a logger.(íçàşÿÿÿÿ8¬”½£/HÈRMAJORZ
-CODE_SMELL
-ˆ	java:S116"QRename this field "EBType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñäš¬şÿÿÿÿ8Ô»¼£/HÉRMINORZ
-CODE_SMELL
-p	java:S106P"9Replace this use of System.out or System.err by a logger.(”•ØÖùÿÿÿÿ8Ûõ¼£/HÊRMAJORZ
-CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(óŸê¶8´ˆéÂ£/HËRMAJORZ
-CODE_SMELL
-k	java:S106^"9Replace this use of System.out or System.err by a logger.(ˆÈÛú8´È‚Ã£/HÌRMAJORZ
-CODE_SMELL
-e
-java:S4973"9Use the "equals" method if value comparison was intended.(ûµ£8ş‰Ê¼£/HÍRMAJORZBUG
-ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É§‹Ûÿÿÿÿÿ8€¡½£/HÎRMINORZ
-CODE_SMELL
-p	java:S106L"9Replace this use of System.out or System.err by a logger.(ßışüÿÿÿÿ8¬”½£/HÏRMAJORZ
-CODE_SMELL
-p	java:S106O"9Replace this use of System.out or System.err by a logger.(¿İÚõüÿÿÿÿ8”³–½£/HĞRMAJORZ
-CODE_SMELL
-k	java:S106b"9Replace this use of System.out or System.err by a logger.(Á ˆá8²øºÃ£/HÑRMAJORZ
+k	java:S106I"9Replace this use of System.out or System.err by a logger.(¹“Ó8²øºÃ£/HİRMAJORZ
 CODE_SMELL
