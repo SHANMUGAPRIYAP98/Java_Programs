@@ -1,23 +1,23 @@
 
-j	java:S106'"9Replace this use of System.out or System.err by a logger.(™ƒ–8ÿ“’£/HRMAJORZ
+_
+java:S1125"'Remove the unnecessary boolean literal.(Õœêüüÿÿÿÿ8ìÂª’£/H‰RMINORZ
 CODE_SMELL
-j	java:S106-"9Replace this use of System.out or System.err by a logger.(ÓøÊ8Óè—’£/HRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ê»¢‹8–¤·’£/HŠRMAJORZ
 CODE_SMELL
-d
-java:S6126'"2Replace this String concatenation with Text block.(™ƒ–8Óè—’£/HRMAJORZ
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÅéÌ8èéÉ’£/H‹RMAJORZ
 CODE_SMELL
-j	java:S1062"9Replace this use of System.out or System.err by a logger.(ÓøÊ8Õ©…’£/H6RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÁËõÛøÿÿÿÿ8•Ñ©’£/HŒRMAJORZ
 CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(Ê»¢‹8–¤·’£/HIRMAJORZ
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(ÓøÊ8Õ©…’£/HRMAJORZ
 CODE_SMELL
-o	java:S1065"9Replace this use of System.out or System.err by a logger.(Üîöùÿÿÿÿ8¹”Å’£/H^RMAJORZ
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(Üîöùÿÿÿÿ8¹”Å’£/HRMAJORZ
 CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(Òè½ˆıÿÿÿÿ8”ß’£/H,RMAJORZ
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(ÓøÊ8Óè—’£/HRMAJORZ
 CODE_SMELL
-^
-java:S1125"'Remove the unnecessary boolean literal.(Õœêüüÿÿÿÿ8ìÂª’£/H7RMINORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Òè½ˆıÿÿÿÿ8”ß’£/HRMAJORZ
 CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(ÁËõÛøÿÿÿÿ8•Ñ©’£/H0RMAJORZ
+e
+java:S6126'"2Replace this String concatenation with Text block.(™ƒ–8Óè—’£/H‘RMAJORZ
 CODE_SMELL
-j	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÅéÌ8èéÉ’£/H`RMAJORZ
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(™ƒ–8ÿ“’£/H’RMAJORZ
 CODE_SMELL

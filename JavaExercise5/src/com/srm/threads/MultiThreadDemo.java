@@ -51,6 +51,9 @@ public class MultiThreadDemo {
 		ThreadDemo td=new ThreadDemo();
 		Thread t=new Thread(td);
 		t.start();
+		ThreadDemo td1=new ThreadDemo();
+		Thread t1=new Thread(td1);
+		t1.start();
 
 	}
 

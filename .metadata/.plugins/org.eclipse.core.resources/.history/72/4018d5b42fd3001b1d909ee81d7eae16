@@ -1,8 +1,0 @@
-package com.srm.basics;
-
-public class RowColSum {
-public static void main(String args[])
-{
-	
-}
-}
