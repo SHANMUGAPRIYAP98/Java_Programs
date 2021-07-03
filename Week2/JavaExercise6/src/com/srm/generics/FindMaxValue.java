@@ -6,15 +6,16 @@ import java.util.List;
 
 public class FindMaxValue {
 	public static void main(String[] args) {
-		List l=new ArrayList<Double>();
-        l.add(20);
-        l.add(100);
-        l.add(15);
-        l.add(2);
-        l.add(-2);
-        l.add(-3);
+		ArrayList<Double> l=new ArrayList<Double>();
+        l.add(20d);
+        l.add(100d);
+        l.add(15d);
+        l.add(2d);
+        l.add(-2d);
+        l.add(-3d);
         Collections.sort(l);
         l.forEach(System.out::println);
+        System.out.println("Maximum Value : "+l.get(l.size()-1));
 	}
 
 }
