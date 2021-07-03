@@ -1,8 +1,0 @@
-package com.srm.expection;
-
-public class Employee {
-	int eno;
-	String ename;
-	double basicpay;
-	Employee()
-}

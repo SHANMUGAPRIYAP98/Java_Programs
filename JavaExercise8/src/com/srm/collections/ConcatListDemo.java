@@ -12,7 +12,7 @@ class LinkedListDemo
 		l1.forEach(System.out::println);
 		System.out.println("LinkedList 2 : ");
 		l2.forEach(System.out::println);
-        l1.add(l2);
+        l1.addAll(l2);
 		System.out.println("LinkedList After Concatinating : ");
 		l1.forEach(System.out::println);
 	}
@@ -20,10 +20,9 @@ class LinkedListDemo
 
 
 public class ConcatListDemo {
-
 	public static void main(String[] args) {
-		List l=new LinkedList<>();
-		List l1=new LinkedList<>();
+		List l=new LinkedList<Integer>();
+		List l1=new LinkedList<Integer>();
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the No.of.Elements : ");
 		int no=sc.nextInt();
@@ -40,7 +39,7 @@ public class ConcatListDemo {
 			l1.add(sc.next());
 		}
 		LinkedListDemo ll=new LinkedListDemo();
-		ll.concatList((LinkedList)l, (LinkedList)l1);
+		ll.concatList((LinkedList<Integer>)l, (LinkedList<Integer>)l1);
 	}
 
 }

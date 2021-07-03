@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.srm.basics.MathOperation"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="com.srm.basics.Matrices"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
-    <fullyQualifiedTypeName name="com.srm.basics.Combination"/>
-    <fullyQualifiedTypeName name="com.srm.basics.ArrayDemo"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Room"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Numbers"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Point"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Electricity"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Programmer"/>
-    <fullyQualifiedTypeName name="com.srm.oops.AssistantProfessor"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Professor"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Publication"/>
-    <fullyQualifiedTypeName name="com.srm.oops.Book"/>
-    <fullyQualifiedTypeName name="com.srm.oops.CD"/>
     <fullyQualifiedTypeName name="com.srm.oops.Square"/>
     <fullyQualifiedTypeName name="com.srm.oops.Squares"/>
     <fullyQualifiedTypeName name="com.srm.oops.Circle"/>
@@ -44,7 +28,6 @@
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="com.srm.threads.ThreadDemo"/>
     <fullyQualifiedTypeName name="com.srm.threads.Shapes"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
@@ -54,9 +37,27 @@
     <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="com.srm.collections.MinMax"/>
-    <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.srm.collections.ReplaceElement"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.srm.collections.CheckData"/>
+    <fullyQualifiedTypeName name="com.srm.collections.ConcatListDemo"/>
+    <fullyQualifiedTypeName name="com.srm.collections.LinkedListDemo"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="com.srm.collections.SetDemo"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="com.srm.collections.TreeMapDemo"/>
+    <fullyQualifiedTypeName name="com.srm.collections.Accounts"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="com.srm.collections.MapData"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.srm.collections.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.srm.collections.SortByNameAndDesign"/>
 </qualifiedTypeNameHistroy>

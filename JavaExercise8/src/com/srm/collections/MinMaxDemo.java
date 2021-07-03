@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 class MinMax
 {
-	void findMinMax(List l)
+	void findMinMax(ArrayList<Integer> l)
 	{
 		System.out.println("ArrayList Elements");
 		l.forEach(System.out::println);
@@ -31,7 +31,7 @@ public class MinMaxDemo {
 			l.add(sc.nextInt());
 		}
 		MinMax mm=new MinMax();
-		mm.findMinMax(l);
+		mm.findMinMax((ArrayList)l);
 	}
 
 }

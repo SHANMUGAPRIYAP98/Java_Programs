@@ -1,7 +1,0 @@
-package com.srm.expection;
-
-public class Student {
-	long regno;
-	String name;
-	int[] marks=new int[3];
-}
