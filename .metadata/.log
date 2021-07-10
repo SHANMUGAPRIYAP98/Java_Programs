@@ -8088,3 +8088,18 @@ org.eclipse.jface.text.BadLocationException
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2021-07-10 12:23:41.420
 !MESSAGE The project description file (.project) for 'JavaExercise17' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-10 12:29:57.345
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-10 12:29:57.345
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-10 12:29:57.346
+!MESSAGE buffering callback sts4.classpath.JIeUYbSc JavaExercise17 false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-10 12:29:57.347
+!MESSAGE executing callback sts4.classpath.JIeUYbSc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-10 12:29:57.365
+!MESSAGE executing callback sts4.classpath.JIeUYbSc SUCCESS [done]
